@@ -1,40 +1,10 @@
-body {
-  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  margin: 9px 200px 15px 200px;
-  background: #000;
-}
-
-h1 {
-  font-style: Sans Serif;
-  color: #FFF;
-  text-align: center;
-  font-size:50px;
-}
-
-.navBar {
-  color: #FACD3D;
-  text-align: center;
-  text-transform: uppercase;
-  font-size: 30px;
-  text-decoration: none;
-  margin : 0px 60px 0px 60px;
-}
-
 .navBar: hover {
   color : #E60576;
-}
-
-p {
-  color: #FFF;
-  font-size: 25px;
-  text-align: center;
 }
 
 img {
   border-radius: 50%
 }
-
-
 
 table {
   margin : 0px 55px 0px 55px;
@@ -50,18 +20,4 @@ th,td {
 table, th, td {
   border: 3px solid #2CCCC3;
   padding: 15px;
-}
-
-hr {
-  color: #FFF;
-}
-
-.footer_e {
-  display: flex;
-  justify-content: space-around;
-}
-
-.foot {
-  font-size: 20px;
-  
 }
