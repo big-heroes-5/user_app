@@ -1,7 +1,7 @@
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 9px 200px 15px 200px;
-  background-color: #000000;
+  background: #000;
 }
 
 h1 {
@@ -21,7 +21,7 @@ h1 {
 }
 
 p {
-  color: white;
+  color: #FFF;
   font-size: 25px;
   text-align: center;
 }
@@ -35,7 +35,7 @@ img {
 }
 
 hr {
-  color: white;
+  color: #FFF;
 }
 
 .footer_e {
